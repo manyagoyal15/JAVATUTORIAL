@@ -9,7 +9,7 @@
  * @author student
  */
 import java.util.*;
-public class Main
+public class Array1D
 {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
